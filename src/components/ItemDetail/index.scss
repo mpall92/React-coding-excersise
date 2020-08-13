@@ -1,0 +1,26 @@
+.item-detail{
+    padding: 50px;
+    .detail-container{
+        img{
+            width:100%;
+        }
+        h2{
+            text-decoration: underline;
+            margin-bottom: 0;
+        }
+        label{
+            padding-left: 10px;
+            font-size:16px;
+            color:black;
+        }
+        p{
+            font-size:16px;
+            color:black;
+            span{
+                color:red;
+                font-weight:500;
+                font-size: 20px;
+            }
+        }
+    }
+}

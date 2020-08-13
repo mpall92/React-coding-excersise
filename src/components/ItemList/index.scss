@@ -1,0 +1,9 @@
+.item-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding:35px;
+    .item{
+        margin: auto;
+    margin-top: 20px;
+    }
+}

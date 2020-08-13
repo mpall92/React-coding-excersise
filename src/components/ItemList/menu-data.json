@@ -1,0 +1,211 @@
+[{
+  "id":1,
+    "name": "Pepsi",
+    "category": "Beverages",
+    "itemId": 16295,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is pepsi",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
+   {
+     "id":2,
+    "name": "Diet Pepsi",
+    "category": "Beverages",
+    "itemId": 16296,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is Diet Pepsi",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
+  {
+    "id":3,
+    "name": "Dr Pepper",
+    "category": "Beverages",
+    "itemId": 16297,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is Dr Pepper",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
+  {
+    "id":4,
+    "name": "Orange Crush",
+    "category": "Beverages",
+    "itemId": 16298,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is Orange Crush",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
+  {
+    "id":5,
+    "name": "Pink Lemonaide",
+    "category": "Beverages",
+    "itemId": 16299,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is Pink Lemonaide",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
+  {
+    "id":6,
+    "name": "Twist",
+    "category": "Beverages",
+    "itemId": 16300,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is Twist",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
+  {
+    "id":7,
+    "name": "Strawberry Ramune",
+    "category": "Beverages",
+    "itemId": 16301,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is Strawberry Ramune",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
+  {
+    "id":8,
+    "name": "Litchi Ramune",
+    "category": "Beverages",
+    "itemId": 16302,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is Litchi Ramune",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
+ {
+   "id":9,
+    "name": "Melon Ramune",
+    "category": "Beverages",
+    "itemId": 16303,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is Melon Ramune",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  },
+ {
+   "id":10,
+    "name": "Apple Juice",
+    "category": "Beverages",
+    "itemId": 16304,
+    "imageUrl": "https://gw.alipayobjects.com/zos/rmsportal/JiqGstEfoWAOHiTxclqi.png",
+    "price": 200,
+    "tax": 8.25,
+    "available": true,
+    "description": "This is Apple Juice",
+    "modifierGroups": {},
+    "timePeriods": [
+      {
+        "price": null,
+        "description": null,
+        "daysOfWeek": [],
+        "period": [],
+        "alwaysAvailable": true
+      }
+    ]
+  }
+ ]
